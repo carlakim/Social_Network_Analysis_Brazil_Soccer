@@ -1,5 +1,6 @@
 # SNA - Social Network Analysis
 Analyzing Brazil's national soccer team passes that scored goal, from the world cup 2022 qualifiers matches and the world cup 2022 matches.
+Made to determine how all the goals were made, to find any patterns on goal scorring - palyers, position, ball possesion and time. 
 
 With the help of:
   - https://betterprogramming.pub/how-to-visualize-soccer-data-using-mplsoccer-in-python-39e2eddfb7d9
